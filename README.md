@@ -26,15 +26,24 @@ Espero disfrutes de la información y te sirva para desarrollar tus habilidades.
 
 - #1.3 Preparación de ambiente (GIT)
 
-- #1.3 Preparación de ambiente (VSCODE)
+- #1.4 Preparación de ambiente (VSCODE)
 
 ## Módulo 2 (Programación)
+- #2.1 Lenguajes de programación
+- #2.2 Ciclo de vida de un Software
 
+- #2.3 Que es un Algoritmo
 
-## Módulo 3 (Herramientas de Programación)
+## Módulo 3 (Herramientas de análisis )
+
+- #3.1 Diagrama de flujo
+- #3.2 Pseudocódigo 
 
 ## Módulo 4 (Introducción al Lenguaje)
 
+
+- #4.1 Entorno de desarrollo típico de java
+- #4.2 Identificadores, variables y constantes
 
 ## Autor
 
